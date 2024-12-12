@@ -1,0 +1,5 @@
+streamlit==1.29.0
+assemblyai==0.17.0
+python-dotenv==1.0.0
+redis==5.0.1
+gradio>=4.0.0

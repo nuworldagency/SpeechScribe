@@ -1,0 +1,723 @@
+
+Speaker A:
+You know, once we bring in that client, we can still get them for other services and other things. You know, there's, there's a million and one ways to fucking try to put this shit.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+But at the end of the day, there's a lot of people that you gotta interact with. Like we're saying no man is an island.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+You can't do it yourself. And reinventing things is gonna be fucking hard. So to figure out if we can use systems that are already in place. And that's what I was saying, the EMRs, they're good now. There's a lot of good functionality in it. All we gotta see is, okay, this is what you're using it for, this is how you're doing it. How can we take this data and rearrange it in a way that it makes sense to assess properly whatever it is. Right. If this patient is seeing this doctor and is getting these medications, this is what they're saying about the pain that they're getting. This is what you know, the issues are, what is the history? You know, we already have all of this being collected. Now we can incorporate AI with all the providers information that they've been inputting into this system. Yeah. So it's like you're creating your own like, you know, like AI searching just for this patient's information and trying to make sense of it all way better than any one doctor can do, you know?
+
+Speaker B:
+Yeah, for real, by your person. Any person can, dude.
+
+Speaker C:
+And, and it's unbiased on top of it too. No, for real, it is.
+
+Speaker A:
+If you put it on chat GPT biased as if we have like, we like, this dude knows how to like set it up where it's like a, a, like a. Your own, you know, chat g. Your own version, your own without its w.
+
+Speaker B:
+You know, like your own beliefs.
+
+Speaker C:
+Yeah, yeah, like train on your data. Like I can get all your emails and I can get all your.
+
+Speaker B:
+Read it.
+
+Speaker C:
+I can get all your emails, I can get all your, your social media.
+
+Speaker B:
+Posts and I'll put it into this.
+
+Speaker C:
+And then it'll, it'll mimic you. What like your writing style. Like, it'll take note of your writing style, the words you use, you know, punctuation and, and then like that's sick.
+
+Speaker B:
+That's amazing.
+
+Speaker C:
+It's also good for businesses because like you can, you can use, you know, other people's content so you can create Personas. Like there's like data on like hugging face where you get like data sets and it's like a whole bunch of different people. And you could just basically, like create accounts and just post, you know, this is my business and blah, blah, blah, blah, blah. You all do posts all based off of that and send it automatically. You have to. You have to with it.
+
+Speaker B:
+I love AI.
+
+Speaker A:
+You think? What about this like an actual, like, virtual assistant for the provider too, where it's all possible. Where they, like, you know, they can, you know, once you're interacting with it, like, if you're the provider, I'm interacting with the system to create the note. You know, I can talk to it, I can type it in or whatever. But, you know, I like. I like the idea of virtually seeing an image, you know, so. Yeah. But to be able to then, like, after you're telling it, okay, create the note with this information in it. The AI can be like, you know, based off the information, you know, like, and all your other patients that. We've seen these kind of things happening, you know, you can. It'll help you kind of know what questions to ask in the future, how to formulate, you know, the next. You know, the next maneuver. Right? Yeah, like, it learns your business too. It understands what you're trying to do.
+
+Speaker B:
+Yeah. Because now that I use my shit from my social media chat GPT, and now it applies everything to JDP credit solutions, and. And it's getting better too. But the word, like, it's getting. It's really like. It's like my words almost. So that is.
+
+Speaker A:
+The crazy shit is that we see this. Like, we see. We use it, right? Yeah.
+
+Speaker B:
+On a daily basis, but not everyone. Like, thank God.
+
+Speaker A:
+I mean, what's the percentage you would say? I think less than. Less than 10%.
+
+Speaker C:
+Yeah, I was about to say 10.
+
+Speaker B:
+You gotta be making 10%. You gotta be techie.
+
+Speaker A:
+At some point, it's gonna be at least 20%. That will. Yeah. And then, you know, it'll flip and the majority will. But they don't know what the.
+
+Speaker B:
+What to use it for, Right? Yeah, you gotta have 20%. You have to have a purpose. I feel like you have to have a purpose to use it. Like, you have to use either for a business. Like, you should be using it for your business no matter what. Like right now, if you're a business owner, you need to be in tune.
+
+Speaker A:
+Yeah.
+
+Speaker B:
+This is gonna. That's why people are cutting employees. They're catching on to this dude.
+
+Speaker A:
+I. I was telling Jazz about all this. We've been talking and helping her build dudes. She's already closing, like, big ass cases and man, cases like, Like Implementing this AI and how she's, you know, doing everything. Yeah, she's already closing in on big deals because she's automating processes now where it just makes sense, you know what I'm saying? Like, how it's like, awesome, awesome, man. I love seeing how this is helping. I don't think he likes. Yeah, this is.
+
+Speaker B:
+If you're using it the right way.
+
+Speaker A:
+And then I got like, class. I'm like, yo, do it for this. You can do it for that. Try this.
+
+Speaker B:
+It's like people, they don't want to.
+
+Speaker A:
+Some people have their limits, you know, like, and. And they don't.
+
+Speaker B:
+They don't know how to properly have that limit. You have to outsource it to a younger person or somebody that hires, someone that knows. So a lot of businesses are going to require you to have AI, no AI now, because, you know, that's going to be like a skill. I feel like eventually the way that is going, because it's like my sister used it for her presentations and her job. She's a dietitian. So she, she said that made her workload so much easier. And she, like, she will wait like 10 minutes before a presentation and put something together and, you know, chat GPT and then, boom, present it. So if you know it's a powerful tool, it's just taking over. It's helping. It's helping a lot. Because I showed you my little avatar, right. I love her. You see my little avatar. Your name is Ariel.
+
+Speaker C:
+Bro. There was a. There was a. A huge AI project that it was like. Yeah, it's like these, these virtual girlfriends and shit.
+
+Speaker B:
+Right?
+
+Speaker C:
+Then you could tell us to do anything you wanted to do. It was one of the most popular ones.
+
+Speaker B:
+Right.
+
+Speaker C:
+It got hacked. Right. And they. Including user information. And when you signed up for that website, when you signed up for that website, you had to verify. You had no. You had to verify who you were.
+
+Speaker A:
+So. Yeah, and it's not there yet, but.
+
+Speaker B:
+It'S getting, Every time, like everyone, they get better.
+
+Speaker A:
+Yeah.
+
+Speaker B:
+And they add more features.
+
+Speaker A:
+The thing is that these are like the, like, they're using the cheaper versions of it, but the ones that cost bread. Like, dude, it is kind of there already.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+Like, I've seen some where it's like.
+
+Speaker B:
+Wow, you gotta look.
+
+Speaker A:
+Yeah.
+
+Speaker B:
+But then they're getting better at, like.
+
+Speaker A:
+Personality with, with the, you know, like its own kind of personality uniqueness, you know, because you can see, like, I, I can tell you. I know. Yeah.
+
+Speaker B:
+Because.
+
+Speaker A:
+Yeah, you know, like, you gotta know.
+
+Speaker B:
+Some people might Flower their head. So if you feel me, like if they don't really know about AI, you know, they're just listening to the words and. But, but what do you think about.
+
+Speaker A:
+Like the, the characters themselves? I mean are they.
+
+Speaker B:
+They're getting better.
+
+Speaker A:
+Yeah.
+
+Speaker B:
+Because they have another package that you could hope like you said you could upgrade. Because I've been, I've been paying for the service for few months now. But they're growing. So they're having that you could do a whole YouTube channel with a AI and look almost nearly like a real person. Like so they're getting better with the smooth value. Like you said, like a personality. So they're almost there.
+
+Speaker A:
+I mean we can basically ghost write YouTube characters, all kinds of subjects with all kinds of channels and automate it so that it creates its content based.
+
+Speaker B:
+Off of, you know, and drive it to the. Whatever.
+
+Speaker A:
+Yeah. And you don't got to do. And content creation is key. That is certain things take off and then. Oh, got to pay more attention to this.
+
+Speaker B:
+What's this doing?
+
+Speaker A:
+You know. And tweet that to make it even better. And facts.
+
+Speaker B:
+We gotta touch YouTube. And actually I've been doing YouTube from my other brand. I do, I post every day for the four limited minds. I do clips though, so Nigga built like 2,200 subscribers and probably like a year. And then you're doing it consistently. But what I need to monetize now is I'm only doing little wheels, like 15 second reels. And I posted on Instagram too. But I need to start making, I need 4,000 hours of watch time. So what I'm gonna do is I'm gonna start making like affirmation videos because I listen to those every morning. Like I use the same one every day. And I thought about it like dogs getting mad views from me because I'm coming back every day listening to the affirmation video, I'm like, damn. Like, it's my routine. I listen to the same every day. So I'm gonna start making those on that page to build the watch time. They're gonna do like hour clips, just affirmations and like cool visuals and just start doing it every day just like how I do the clips so I can monetize it. Because that's how you could become a YouTube partner partnership. You gotta have 4,000 hours and then a thousand subscribers and then they'll start paying like ads. That's the game for the YouTube. So it's gotta.
+
+Speaker A:
+Once you in your, in your. With the changes and everything, are you Allowed to like, let's say you had a shirt said free credit advice disaster. They can't do that.
+
+Speaker B:
+You could do that. You could meet people in person. Okay. So. And the great thing about credit repair, that's how majority of the big companies in the credit repair business, that's how they build their business with basically networking with like realtors, loan officers. They reckon that's how they build the business business.
+
+Speaker A:
+Right?
+
+Speaker B:
+Yeah.
+
+Speaker A:
+Face to face person.
+
+Speaker B:
+Not a lot of them have an online presence like that. Like big. A couple of them. But a lot of them have built their, like that's the person. So it is more of a personal person. Build relationships.
+
+Speaker A:
+And what if you had like landing pages and some of them be like just talking about the changes, right. Like how they're making it more difficult. The only way you can is, you know, sign up now, we'll give you, you know, we want to make sure people are, you know, able to still get to, you know, whatever. Landing pages with different kind of. Yeah, you know.
+
+Speaker B:
+Yeah. That's what I actually want to talk to you about was landing pages. Because what I'm noticing is like when I blast my emails from all my customers that I've gotten, I gotta open a percentage rate.
+
+Speaker A:
+Nice.
+
+Speaker B:
+Auto responders.
+
+Speaker A:
+That's good. That's really good.
+
+Speaker B:
+Yeah. So how about do you send them tips?
+
+Speaker A:
+Like credit tips and stuff? Which is fine.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+Information. Hell yeah.
+
+Speaker B:
+People need that.
+
+Speaker A:
+It shows how you can automate, you know, a lot of these things that will help people be better. Yeah, it slowly will. You know, everything you get in the future will be, you know, AI generated. It's just how it's gonna be. But now it's like, what's the AI behind that doing? You know, is it really trying to manipulate information or is it just explaining events? Explaining, you know, like how to do things, how to. Yeah, it's cool. I like it, man. I with that all day.
+
+Speaker B:
+They got one. Did you see the one with the Jamaica accent? I gotta show you.
+
+Speaker A:
+Oh, yeah, but speaking of patois, telling them what to order, like right around the corner. Did you see that?
+
+Speaker B:
+What the.
+
+Speaker C:
+It's better than Brad Pitt trying to do this in Jamaican.
+
+Speaker A:
+How does it get that? Because I don't remember, like the setting for that voice.
+
+Speaker C:
+Dude, it's all juniper. It's all juniper.
+
+Speaker B:
+Yeah. I don't know. I've been seeing rails with that voice.
+
+Speaker A:
+You pay for chat GPT?
+
+Speaker B:
+No, I still don't pay for that.
+
+Speaker A:
+Pay for it is you get better.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+You know, it's worth it. Are you able to create your own GPTs though, for free?
+
+Speaker B:
+I haven't done that.
+
+Speaker A:
+Fuck with that. Yeah, search for something, search for GPTs and then you'll see what IT capabilities and shit. Yeah, use that shit all day.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+I created one for Pharma Force and so like I updated all the, uploaded all the documents for that project at Pharma Force and I just ask the questions from it, you know.
+
+Speaker C:
+You got all the docs?
+
+Speaker A:
+Yeah, the, that I, I'll, I'll find whatever other documents they've sent me. I'll even put the emails just so we know what the people want, you know.
+
+Speaker C:
+Yeah, I put that through.
+
+Speaker A:
+That's not a bad idea.
+
+Speaker C:
+I download, I downloaded the doc and I put that through the, the chat and it learned it ready, it memorized it and that's all. That's the only data it has. That's right. So I was just asking it questions and it was giving me, it gave me the, it gave me a code for a plugin to do for the GPT. I, I, we need access to that though, so we could test it. I don't, I don't know.
+
+Speaker A:
+That's why I sent an email to Maria Freeman and I mean she didn't even know I sent her an email what I needed. And this was weeks ago. I sent her a text that I need that information. And this was like three days ago and had heard about, it's like, and she, she's the one that was pressing me on. Like she's, she paid up a lot, bro. Like, like I'm just a month right now. A month. And then this month right now. So two months back. But dude, she's paying me off months. I'm like, yes. You know what I'm saying? Like finally, you know, like the only one that, that owes me and owes me a lot is Danny. But whatever, you know I'm saying, like he, I just talked to him yesterday and he, you know, he's gonna come through with that. But I want, I want to see his blow the up right now with the hurricane. Like, yeah, I think, I think he needs to do a campaign of referrals.
+
+Speaker C:
+Yeah.
+
+Speaker A:
+You know, like find a way to. But I've been telling them this for a minute and it's like he said he doesn't want to give money away type of, he needs more reviews. I tell him every, every client, you know, say like right before, you know, you're done with them, hey, I'll give you a 25 gift card right now. Just leave me A review, please. You know what I'm saying? What the is 25 for? At least to get the ball rolling, you know what I'm saying? Like, to. You need that shit. Like, the way I feel like right now is like anything that I do, I'm just shouting in the fucking desert. Like, I. I mean, it's better to shout in the desert. At least maybe somebody will hear you. I'm shot in the fucking desert, you know, like, if you're not doing this over here, like that, you need to do everything that I'm doing. This is like, pointless, you know, saying it's like, like, what the fuck is the point? You know, like, pay me for it, I guess.
+
+Speaker B:
+But like, you're talking about.
+
+Speaker A:
+It's frustrating with the same. I think.
+
+Speaker B:
+I mean, like, right now, maybe it's.
+
+Speaker A:
+Just different times, dude, I'm telling you, pivot to the business. Yeah, there's. Regardless whether it's Harris or Trump, they're gonna want to push something for small business. You know, she's talking about some. I mean, it's horrible, the plans that she's putting up. She's talking about giving away money and that it's always right for. You're gonna have bullshit scams and the fucking. You know what I'm saying? But if it's about, like, allowing businesses to fucking flourish by giving them more incentives to create, to fucking.
+
+Speaker B:
+That sounds like Trump, right? I like Trump.
+
+Speaker A:
+Like, you know, the. The dumb response is always like, oh, free this, free that. Oh, whatever. You know, I'm saying, like, you don't gotta pay.
+
+Speaker B:
+You know, like, there's always an interior motivation.
+
+Speaker A:
+It's always like, oh, you know, like some.
+
+Speaker B:
+And you know what?
+
+Speaker A:
+It's never about how can we come up with a. They say a better way to get.
+
+Speaker B:
+This, and they never go through with it. It's a whole different agenda as soon as they get empowered. My.
+
+Speaker A:
+Yeah, it's that they don't understand how does economy work?
+
+Speaker B:
+They never do half of the.
+
+Speaker A:
+They don't understand, like. Like what it is to actually have to pay salaries and, you know, break down cost and, like, what it is. And then you want to tax everybody for everything. Like, oh, the last thing that this guy came up with now is no tax on. On a car insurance, no car interest.
+
+Speaker B:
+I think I saw something.
+
+Speaker A:
+Something like that. Right? Car interest or the interest.
+
+Speaker B:
+Something about interest.
+
+Speaker A:
+Yeah. So it's another deduct, A deductible.
+
+Speaker B:
+Go Trump. All right, let's go.
+
+Speaker A:
+I'm saying it's like figuring out ways to Fucking help people and shit. Rather than, oh, I'm gonna give you this, you know, like, I don't know, man.
+
+Speaker B:
+I see. But we got pivot, too.
+
+Speaker A:
+Whatever happens. That's what I said. Still business. It's always gonna be business.
+
+Speaker B:
+That's what.
+
+Speaker A:
+That's how this country is really straight.
+
+Speaker B:
+Up of the land of opportunity.
+
+Speaker A:
+Land of opportunity that like.
+
+Speaker B:
+Yeah.
+
+Speaker C:
+Venezuelans, let's go. Was it the trend? Aragua. That's the Arago. I think it's like an A before the G. Arago.
+
+Speaker A:
+Yeah.
+
+Speaker B:
+Wasn't there like a million. I saw something like a million immigrants trying to vote or some.
+
+Speaker C:
+Oh, yeah, some like that. I wouldn't doubt it, bro.
+
+Speaker B:
+They're letting them in for that.
+
+Speaker A:
+This is so crazy that everything that Trump is saying about, like, the having issues and they try to take them out.
+
+Speaker B:
+They try to take them out.
+
+Speaker A:
+And like, now it's like, even crazier for me. Even crazier for me.
+
+Speaker C:
+It's like, it's so blatant and obvious.
+
+Speaker A:
+There's so many people that are like, oh, cool with.
+
+Speaker B:
+I'm cool with that.
+
+Speaker A:
+Yeah, we need these people. Like, yeah, it's. I think what it breaks down to is, like, there really is philosophy. Everyone has their own ideology on things. Right. And like, it's like the end justifies the means type of mindset versus, like, we should do things a little bit better. Right. You know, a path that we can all agree with that this is, you know, like. Like dope. Like, I'm more pro life than fucking Trump is, you know, saying. Yeah, like, I don't, like, certain ways.
+
+Speaker B:
+Don'T get me on Trump.
+
+Speaker A:
+Yeah.
+
+Speaker B:
+But.
+
+Speaker A:
+But hey, but that means that at least, like, you know, I'm saying, like, we're coming this side with this dude, even though we're not like 100 in agreement. You know what I'm saying? It's not a cult, you know, saying. But you can't tell me, oh, we're not cold and we're.
+
+Speaker B:
+This not like that.
+
+Speaker A:
+But a cult is people who blindly follow. And it looks like. It doesn't look like it's, you know.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+You blindly followed Blue. Like, this sucked. Nobody liked her.
+
+Speaker B:
+Nobody's playing the race card.
+
+Speaker A:
+Yeah. So hard that it's hard. She's been though. She called Joe Biden a racist, saying the debates in 20.
+
+Speaker B:
+Oh.
+
+Speaker A:
+Back in the day. Yeah, look at that.
+
+Speaker B:
+And I guess she's fake.
+
+Speaker A:
+It's faker than. Bro. How do you call, like, you know, like, her thing was all that he supported busing you know, like, the black community out and this and that and blah, blah, blah. And now she racist, and she had.
+
+Speaker B:
+No choice to be the vice president.
+
+Speaker A:
+It just shows. It's all a game. Like, somebody call this it out. It's like, you're voting for Trump. You know, he is who he is. Right. But you're voting for that man. Right. You're not voting for the Republican Party. You really voted for Trump right now, you know, the Republican Party ain't really. It's secondary. It's more about the Republican nobody cares about.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+No party affiliation. You know what I'm saying? Like, I'm not even. I don't even get to vote in the. In the primary.
+
+Speaker B:
+I'm neutral.
+
+Speaker A:
+Yeah. I mean, I don't care about the Republican Party exactly, but I fuck with him, right? Yeah. The Democrat Party is like, you know, they took out Biden and insert anyone, and. And it's. They're gonna go for it.
+
+Speaker B:
+They're horrible.
+
+Speaker A:
+Like, think about that shit. It's an establishment. Like, you can take. You can take any part out of it, and it's still a ball of a fucking bullshit. That will always be there.
+
+Speaker B:
+Yeah.
+
+Speaker A:
+Will always be this fucking. You know, I'm saying, like, you can't break that party down because of the way that it operates. Like, that's true.
+
+Speaker B:
+Every time they get empowered, nigga, they don't do shit.
+
+Speaker A:
+Who's gonna be in 2020 if we have one 28. It's gonna be Gavin Newsom. You know it's gonna be.
+
+Speaker C:
+Bro, no way, bro.
+
+Speaker B:
+She win it again.
+
+Speaker A:
+She's gonna try to take.
+
+Speaker C:
+Bro, she didn't even get voted into the.
+
+Speaker A:
+Into.
+
+Speaker C:
+Be the primary, bro.
+
+Speaker A:
+The out of here.
+
+Speaker C:
+You think she's gonna get up?
+
+Speaker A:
+No.
+
+Speaker C:
+She gets in there. She's not gonna be like, oh, come on, Gavin, take my spot. No, get the. Out of. She's gonna be forever. She's gonna be forever, dude. She's gonna pull a bou. But not in a good way.
+
+Speaker B:
+Four years. Not in a good way.
+
+Speaker C:
+Not in a good way, bro. You can't see it. D. There so much money in that, bro. Behind her. I mean, there's so much money behind her. They won't let her down, bro. They won't let her leave that.
+
+Speaker B:
+No way, dude. It could go either way, man. We got.
+
+Speaker C:
+I could see that's a couple of amendments.
+
+Speaker A:
+I could see this dude not even making it to. To the election and dying. They put in her as president.
+
+Speaker B:
+Who? Biden.
+
+Speaker A:
+Right. Oh, they're gonna.
+
+Speaker C:
+He voted For Trump. Get him out of here.
+
+Speaker A:
+Look at this. We're people who pay attention, right? Check this out. Do you know that there was like, they recently stopped somebody that was gonna.
+
+Speaker B:
+Do an attack during the election, like the second attempt.
+
+Speaker A:
+What percentage of people do you think know about this? Right? How is this not a bigger deal? Like, because you don't hear this much.
+
+Speaker B:
+That shit under the rug. Now we hear about the.
+
+Speaker A:
+Right. Yeah. So they're gonna do something like that again and they're gonna allow shit to happen, I would imagine the way that's Trump.
+
+Speaker B:
+Like they're gonna take them up.
+
+Speaker A:
+I think, I think they're gonna suspend elections because their internal polling right now is saying that they, they, they're not winning, they're not winning. They're losing and they're gonna lose. Severity. Remember, Hillary was projected to at this point win by 5%. And now Trump is projected, you know, in these polls to be winning by like a few percentages.
+
+Speaker C:
+3, 4%, man, they suspended election, bro. It doesn't matter what points the other happens now.
+
+Speaker A:
+Whatever models.
+
+Speaker C:
+It doesn't matter who wins. It doesn't matter if we have elections. Like, bro, this shit is not going to be good, bro.
+
+Speaker A:
+Nobody is really, you know, like, look, there's people that are blindly supporting, fine. But I think at the end of the day, they're also lazy fucks, you know, and the only way that they can really push up those numbers is vote by mail by vote by mail.
+
+Speaker C:
+I fucking.
+
+Speaker A:
+A lot of places now, they force them to clean out their voter rolls. They force them to do all these things where they're still going to cheat, but it might not be as good. It might not be enough.
+
+Speaker C:
+Is there, can we get, can we get access to vertical rules? We can't get access to registered voters or is that, is that public information or.
+
+Speaker A:
+No, for the voters. Yeah. Because you guys, we could put it.
+
+Speaker C:
+Through, like, we could put it through a. You could put it through a blockchain and maybe have people fucking go online and see who put, say who they voted for and we could total the votes like that.
+
+Speaker A:
+You could. Like a side.
+
+Speaker C:
+Yeah, like a side thing. Just like, you know, like, like we'll put up a, throw up a website real quick. I follow the vote, you know, whatever to see if your vote really counted. We put all the voter registration data on the fucking thing on the, on the blockchain. When somebody fucking marks who they voted for, it just gets marked anonymously on the blockchain. It gets, you know, marked as who it was and Then we just total it up at the end and compare.
+
+Speaker A:
+You have to. You have to see if.
+
+Speaker C:
+I mean, because if you go to a website and you willingly say who you voted for, like, we don't have to, like, attach your name to it. It could be anonymized. But, like, you're. You're the specified voter that has this information. So, like, this is who you voted for, you know, I mean, make it public.
+
+Speaker A:
+And since it's on the blockchain, it's immutable.
+
+Speaker B:
+Right.
+
+Speaker C:
+You want to vote for every person.
+
+Speaker A:
+It's like a side election.
+
+Speaker B:
+Yeah.
+
+Speaker C:
+Like, at some point, it's really just an account.
+
+Speaker A:
+So many people to do it.
+
+Speaker C:
+Yeah. Well, I mean, you just market it. You put it out there, put a website, have some way of tracking it. I mean, you could do an app. You can do. There's so many ways to do it now. You can even do it by fucking text, you know, but text would be a little harder because that's.
+
+Speaker A:
+You can incentivize people.
+
+Speaker C:
+Yeah, you could do that, too.
+
+Speaker A:
+So you would have to get, like, ways to monetize it. To incentivize.
+
+Speaker C:
+We create our own token. Create our own token. And you get tokens first.
+
+Speaker A:
+Whoever has that token, part of the.
+
+Speaker C:
+Dial, you become part of the dial, too.
+
+Speaker A:
+Yeah.
+
+Speaker B:
+You can hold on to this. Yeah.
+
+Speaker A:
+All the affiliate what we were talking.
+
+Speaker B:
+About before, we're trying to strategize because we have a lot of products.
+
+Speaker A:
+Let me check this one out tonight. Watched the movie yesterday with this chick.
+
+Speaker C:
+Which one?
+
+Speaker A:
+We saw Beetlejuice. Beetlejuice. And then I was watching.
+
+Speaker C:
+What's the other one?
+
+Speaker A:
+Some zombie. I don't know. It's kind of stupid, but it's pretty cool, man, to have, like. Because that. On that wall.
+
+Speaker C:
+Hold on, let me see it real quick.
+
+Speaker B:
+There's.
+
+Speaker C:
+All right, let me just log into this right quick. It.
+
+
+Chapter Summary:
+
+Chapter 1: 
+The EMRs are good now. Now we can incorporate AI with all the providers information that they've been inputting into this system. What about an actual, like, virtual assistant for the provider too, where it's all possible.
+
+Chapter 2: 
+A lot of businesses are going to require you to have AI, no AI now. My sister used it for her presentations and her job. Every time, like everyone, they get better. And they add more features.
+
+Chapter 3: 
+The entrepreneur says he needs 4,000 hours of watch time to become a YouTube partner partnership. He also wants to talk to you about landing pages and how to build relationships with customers.
+
+Chapter 4: 
+You pay for chat GPT? No, I still don't pay for that. Pay for it is you get better. Are you able to create your own GPTs though, for free? I haven't done that.
+
+Chapter 5: You're not voting for the Republican Party. Right.
+"There really is philosophy. Everyone has their own ideology on things, " he says. The end justifies the means type of mindset versus, like, we should do things a little bit better. "I'm neutral. I don't care about the Republican Party exactly, but I screw with him, right?
+
+Chapter 6: 
+The Democrat Party is like, you know, they took out Biden and insert anyone, and it's. Gonna go for it. Who's gonna be in 2020 if we have one 28. It's going to be Gavin Newsom. She's gonna pull a bou. But not in a good way.
+
+Chapter 7: 
+You could put it through a blockchain and maybe have people go online and see who put, say who they voted for. Then we just total it up at the end and compare. There's so many ways to do it now. You would have to get ways to monetize it.
